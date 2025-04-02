@@ -80,7 +80,7 @@ result_styles = {
 def load_model_bundle():
     """Loads the model bundle (pipeline, label encoder, scaler)."""
     try:
-        with open("model_bundle.pkl", "rb") as f:
+        with open("final-project/model_bundle.pkl", "rb") as f:
             bundle = pickle.load(f)
         return bundle
     except Exception as e:
