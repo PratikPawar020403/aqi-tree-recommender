@@ -1,0 +1,37 @@
+AQI Value Range,Predominant Pollutant,Recommended Tree (English / Indian Name),APTI Value (avg),PM Capture Efficiency (g/m²/year),Gas Absorption (μmol/m²/s),Survival Rate (%)
+0 - 50,PM₁₀,Alstonia scholaris (Devil Tree / सप्तपर्णी),20.3,23.6,8.4,92
+0 - 50,PM₂.₅,Ficus religiosa (Peepal / पीपल),21.8,32.7,7.6,94
+0 - 50,NO₂,Terminalia arjuna (Arjun / अर्जुन),17.5,18.9,12.5,88
+0 - 50,CO,Ficus benghalensis (Banyan / बरगद),19.2,26.5,9.8,95
+0 - 50,SO₂,Mangifera indica (Mango / आम),28.3,16.4,11.2,90
+0 - 50,O₃,Azadirachta indica (Neem / नीम),22.4,24.1,13.7,92
+51 - 100,PM₁₀,Saraca asoca (Ashoka / अशोक),18.7,42.6,8.5,86
+51 - 100,PM₂.₅,Azadirachta indica (Neem / नीम),22.4,38.9,10.2,92
+51 - 100,NO₂,Ficus religiosa (Peepal / पीपल),21.8,27.5,14.6,94
+51 - 100,CO,Polyalthia longifolia (Ashok / अशोक),16.9,22.3,9.3,85
+51 - 100,SO₂,Tamarindus indica (Tamarind / इमली),25.6,19.2,16.8,89
+51 - 100,O₃,Acacia nilotica (Babul / बाबूल),24.2,21.6,14.2,88
+101 - 150,PM₁₀,Tectona grandis (Teak / सागौन),19.8,52.3,7.9,84
+101 - 150,PM₂.₅,Pinus roxburghii (Chir Pine / चीड़),30.4,56.8,8.4,87
+101 - 150,NO₂,Terminalia bellirica (Bahera / बहेड़ा),26.2,24.7,17.5,82
+101 - 150,CO,Ficus infectoria (White Fig / पाकड़),20.8,32.9,12.6,85
+101 - 150,SO₂,Butea monosperma (Flame of Forest / पलाश),23.7,26.8,18.2,81
+101 - 150,O₃,Acacia nilotica (Babul / बाबूल),24.2,25.4,16.8,88
+151 - 200,PM₁₀,Dalbergia sissoo (Shisham / शिशम),25.6,68.7,9.4,83
+151 - 200,PM₂.₅,Holoptelia integrifolia (Indian Elm / चिलबिल),28.9,75.4,10.2,79
+151 - 200,NO₂,Cassia fistula (Golden Shower / अमलतास),32.6,34.2,19.6,76
+151 - 200,CO,Ficus religiosa (Peepal / पीपल),21.8,45.6,15.8,94
+151 - 200,SO₂,Anthocephalus cadamba (Kadam / कदम्ब),27.2,31.4,21.3,82
+151 - 200,O₃,Pongamia pinnata (Indian Beech / करंज),36.4,29.8,20.5,85
+201 - 300,PM₁₀,Callistemon citrinus (Bottlebrush / बॉटल ब्रश),33.8,82.6,12.6,75
+201 - 300,PM₂.₅,Psidium guajava (Guava / अमरूद),35.7,88.3,14.8,78
+201 - 300,NO₂,Caesalpinia sappan (Sappan / पटांग),41.3,42.6,24.5,72
+201 - 300,CO,Mimusops elengi (Spanish Cherry / मौलश्री),30.8,56.7,19.4,74
+201 - 300,SO₂,Bauhinia variegata (Kachnar / कचनार),38.2,39.5,25.7,69
+201 - 300,O₃,Ficus benghalensis (Banyan / बरगद),19.2,48.3,22.8,95
+301 - 500,PM₁₀,Melia azedarach (Persian Lilac / बकाइन),42.6,96.8,18.7,68
+301 - 500,PM₂.₅,Grevillea robusta (Silver Oak / सिल्वर ओक),45.2,105.4,19.8,65
+301 - 500,NO₂,Caesalpinia sappan (Sappan / पटांग),41.3,52.8,28.6,72
+301 - 500,CO,Salvadora persica (Toothbrush Tree / पीलू),37.5,64.3,25.2,71
+301 - 500,SO₂,Moringa oleifera (Drumstick / सहजन),47.3,48.9,31.4,67
+301 - 500,O₃,Boswellia serrata (Indian Frankincense / सलाई),44.8,45.6,30.8,64
