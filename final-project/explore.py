@@ -47,7 +47,7 @@ def exploration_interface():
     It loads the AQI CSV data and model evaluation metrics (if available),
     provides sidebar filters, and renders multiple interactive visualizations.
     """
-    CSV_FILE_PATH = 'AQI.csv'
+    CSV_FILE_PATH = 'final-project/AQI.csv'
     MODEL_BUNDLE_PATH = 'model_bundle.pkl'
     
     df = load_data(CSV_FILE_PATH)
