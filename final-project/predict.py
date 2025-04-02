@@ -106,7 +106,7 @@ else:
 def load_metrics():
     """Loads model evaluation metrics from a JSON file."""
     try:
-        with open("metrics.json", "r") as f:
+        with open("final-project/metrics.json", "r") as f:
             return json.load(f)
     except Exception as e:
         st.error(f"Error loading metrics: {e}")
