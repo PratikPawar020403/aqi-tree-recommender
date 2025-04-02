@@ -129,7 +129,7 @@ def load_tree_data():
     Now handles subscript characters in pollutant names.
     """
     try:
-        df = pd.read_csv("treeaqi - Sheet1.csv")
+        df = pd.read_csv("final-project/treeaqi_data.csv")
         # Normalize pollutant names: replace subscripts and clean
         df["Predominant Pollutant"] = (
             df["Predominant Pollutant"]
