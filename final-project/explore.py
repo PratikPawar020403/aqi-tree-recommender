@@ -48,7 +48,7 @@ def exploration_interface():
     provides sidebar filters, and renders multiple interactive visualizations.
     """
     CSV_FILE_PATH = 'final-project/AQI.csv'
-    MODEL_BUNDLE_PATH = 'model_bundle.pkl'
+    MODEL_BUNDLE_PATH = 'final-project/model_bundle.pkl'
     
     df = load_data(CSV_FILE_PATH)
     if df is None:
