@@ -105,7 +105,7 @@ if page == "Home":
             return None
 
     # Use a relative path to your image file
-    app_image = load_app_image("aqi.jpg")
+    app_image = load_app_image("final-project/aqi.jpg")
     if app_image:
         st.image(app_image, caption="Visualize Air Quality, Understand Our Environment", width=600)
     
